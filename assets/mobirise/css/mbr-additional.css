@@ -9,11 +9,11 @@ body {
 }
 .display-1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 3.6rem;
+  font-size: 3.8rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.76rem;
+  font-size: 6.08rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
@@ -53,9 +53,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.88rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.04rem;
+    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -1009,7 +1009,7 @@ a {
 .cid-rmHL5JVzuL {
   padding-top: 225px;
   padding-bottom: 225px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/red-hot-chili-pepper-isolated-2000x2952.jpeg");
 }
 .cid-rmLdXTWFKW {
   padding-top: 195px;
